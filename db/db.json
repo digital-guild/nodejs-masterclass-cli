@@ -1,0 +1,70 @@
+{
+  "guilds": [
+    {
+      "id": "2024-11-17T18:55:01.646Z",
+      "tasks": [],
+      "name": "nom",
+      "rank": "C"
+    },
+    {
+      "id": "2024-11-17T18:56:22.320Z",
+      "tasks": [
+        1731870861770
+      ],
+      "name": "arielus",
+      "rank": "A"
+    },
+    {
+      "id": "2024-11-17T18:57:14.769Z",
+      "tasks": [],
+      "name": "az",
+      "rank": "A"
+    },
+    {
+      "id": "2024-11-17T18:57:27.496Z",
+      "tasks": [],
+      "name": "azd",
+      "rank": "A"
+    },
+    {
+      "id": "2024-11-17T18:58:03.967Z",
+      "tasks": [],
+      "name": "azdazd",
+      "rank": "A"
+    },
+    {
+      "id": "2024-11-17T19:01:18.992Z",
+      "tasks": [],
+      "name": "hzadh",
+      "rank": "A"
+    },
+    {
+      "id": "2024-11-17T19:01:28.310Z",
+      "tasks": [],
+      "name": "",
+      "rank": "A"
+    },
+    {
+      "id": "2024-11-17T19:03:20.081Z",
+      "tasks": [],
+      "rank": "A",
+      "name": "GUILD"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1731870569639,
+      "completed": true,
+      "title": " détruire le village des phpiste",
+      "priority": "E",
+      "dueDate": "2023-06-22"
+    },
+    {
+      "id": 1731870861770,
+      "completed": false,
+      "title": "apprendre php",
+      "priority": "A",
+      "dueDate": "2023-06-12"
+    }
+  ]
+}
